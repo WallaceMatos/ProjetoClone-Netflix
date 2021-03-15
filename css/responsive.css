@@ -1,0 +1,21 @@
+@media screen and (max-width:700px){
+	 .menu-header, .header-right {
+	 	margin:10px;
+	 	margin-bottom: 20px;
+	 	display: flex;
+		flex-direction:none;
+	}
+
+	.botao{
+		margin-top: 5px;
+		width: 190px;
+	}
+}
+
+
+@media screen and(min-width: 1000px){
+	.descricao{
+		width: 50%;
+
+	}
+}
